@@ -1,5 +1,3 @@
-最后同步scrcpy 3c0fc8f54f42bf6e7eca35b352a7d343749b65c4
-
 # TODO
 ## 低优先级
 - text转换 https://github.com/Genymobile/scrcpy/commit/c916af0984f72a60301d13fa8ef9a85112f54202?tdsourcetag=s_pctim_aiomsg
@@ -12,6 +10,8 @@
 - opengles 3.0 兼容性参考[这里](https://github.com/libretro/glsl-shaders/blob/master/nnedi3/shaders/yuv-to-rgb-2x.glsl)
 - 通过host:track-devices实现自动连接 https://www.jianshu.com/p/2cb86c6de76c
 - 旋转 https://github.com/Genymobile/scrcpy/commit/d48b375a1dbc8bed92e3424b5967e59c2d8f6ca1
+- 禁用屏幕保护 https://github.com/Genymobile/scrcpy/commit/dc7b60e6199b90a45ea26751988f6f30f8b2efdf
+- 自定义快捷键 https://github.com/Genymobile/scrcpy/commit/1b76d9fd78c3a88a8503a72d4cd2f65bdb836aa4
 
 ## 高优先级
 - linux打包以及版本号
@@ -21,6 +21,9 @@
 # mark
 ## ffmpeg
 [ffmpeg编译参数详解](https://www.cnblogs.com/wainiwann/p/4204230.html)
+
+## fontawesome
+[fontawesome 在线搜索](http://www.fontawesome.com.cn/cheatsheet/)
 
 ## adb
 以下是 ADB 和 Fastboot 的谷歌官方下载链接：
